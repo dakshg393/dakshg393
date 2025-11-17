@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [dakshg393](dakshg393)
+- 👨‍💻 All of my projects are available at [dakshg39](dakshg393)
 
 - 💬 Ask me about **MERN Stack, Django, DSA**
 
